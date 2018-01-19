@@ -14,4 +14,4 @@ this game built using JavaScript. To run this game,use any web browser such as G
 * RIGHT key to move right.
 
 ## licenses
-The project is part of Udacity Front End Nano Degree.[Udacity Front End Nano Degree](https://https://sa.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+The project is part of [Udacity Front End Nano Degree](https://https://sa.udacity.com/course/front-end-web-developer-nanodegree--nd001).
