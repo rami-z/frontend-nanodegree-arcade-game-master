@@ -1,6 +1,6 @@
 # Arcade Game 
 ![game Photo](https://d17h27t6h515a5.cloudfront.net/topher/2017/June/5931c951_frogger/frogger.png)
-## Getting Started
+## Introduction
 this game built using JavaScript. To run this game,use any web browser such as google chrome to play.
 [Click Here to Play](https://ramimalzahrani.github.io/frontend-nanodegree-arcade-game-master/index.html)
 
