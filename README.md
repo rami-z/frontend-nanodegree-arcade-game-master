@@ -7,8 +7,11 @@ this game built using JavaScript. To run this game,use any web browser such as g
 ## how to play 
  In this game you have a Player and Enemies (Bugs). The goal of the player is to reach the water, without colliding into any one of the enemies. The player can move left, right, up and down. The enemies move in varying speeds on the paved block portion of the scene. Once a the player collides with an enemy, the game is reset and the player moves back to the start square. Once the player reaches the water the game is won.
 ### Alow Key press:
-![arrow Keys](images\arrowKeys.png)
-+UP key to move up.
-+DOWN key to move down.
-+LEFT key to move left.
-+RIGHT key to move right.
+![arrow Keys](https://raw.githubusercontent.com/ramimalzahrani/frontend-nanodegree-arcade-game-master/master/images/arrowKeys.png)
+* UP key to move up.
+* DOWN key to move down.
+* LEFT key to move left.
+* RIGHT key to move right.
+
+## licenses
+The project is part of Udacity Front End Nano Degreee.
