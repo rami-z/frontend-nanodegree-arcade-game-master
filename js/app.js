@@ -10,11 +10,11 @@ Enemy.prototype.update = function(dt) {
         this.x += this.speed * dt;
     } else {
         this.x = 0;
-    };
+    }
     if (((player.x - this.x) < 70 && ((player.x - this.x) > -70)) && (((player.y - this.y) < 50) && (player.y - this.y) > -40)) {
         player.x = 200;
         player.y = 380;
-    };
+    }
 };
 
 Enemy.prototype.render = function() {
@@ -50,12 +50,10 @@ Player.prototype.handleInput = function(keyup) {
         player.x = 400;
     } else if (player.x <= 0) {
         player.x = 0;
-    };
-    
+    }
     if (player.y >= 400) {
         player.y = 400;
-    };
-
+    }
     if (player.y <= 10) {
         player.y = 380;
         alert("You win!!");
